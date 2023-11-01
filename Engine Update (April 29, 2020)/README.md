@@ -1,7 +1,7 @@
 # How to install
 1. Just copy all the files with replacement of the files from this folder to the root folder with the installed game.
 
-## Changlelog
+## Changelog
 ```
 Last update: April 29, 2020.
 
