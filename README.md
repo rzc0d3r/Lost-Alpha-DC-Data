@@ -2,7 +2,7 @@
 Lost-Alpha-DC-Effectors - Various useful files for S.T.AL.K.E.R. Lost Alpha DC
 
 ## Files list
-* effectors.ltx - A configuration responsible for various effects, such as camera rotation when the protagonist sprints:
+* gamedata/config/misc/effectors.ltx - A configuration responsible for various effects, such as camera rotation when the protagonist sprints:
 ```
 [bobbing_effector]
 run_amplitude			=	0.0075
@@ -12,5 +12,3 @@ limp_amplitude			=	0.095
 > Reducing the numbers in these lines of code help reduce the very large camera swings during a sprint.
 >
 > This file will need to be moved to folder with installed Lost Alpha DC/gamedata/config/misc
-> 
-> Create a config/misc folder if it does not exist. Most likely it will not exist.
