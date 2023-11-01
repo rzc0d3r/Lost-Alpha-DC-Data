@@ -12,3 +12,6 @@ limp_amplitude			=	0.095
 > Reducing the numbers in these lines of code help reduce the very large camera swings during a sprint.
 >
 > This file will need to be moved to folder with installed Lost Alpha DC/gamedata/config/misc
+
+## Engine Update
+The latest engine update for the game version 1.4007 is as [follows](https://github.com/rzc0d3r/Lost-Alpha-DC-Data/tree/main/Engine%20Update%20(April%2029%2C%202020))
