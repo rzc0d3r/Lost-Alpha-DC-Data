@@ -2,7 +2,7 @@
 Lost-Alpha-DC-Effectors - Various useful files for S.T.AL.K.E.R. Lost Alpha DC
 
 ## Files list
-* gamedata/config/misc/effectors.ltx - A configuration responsible for various effects, such as camera rotation when the protagonist sprints:
+* [effectors.ltx](https://github.com/rzc0d3r/Lost-Alpha-DC-Data/blob/main/gamedata/config/misc/effectors.ltx) - A configuration responsible for various effects, such as camera rotation when the protagonist sprints:
 ```
 [bobbing_effector]
 run_amplitude			=	0.0075
