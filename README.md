@@ -11,4 +11,6 @@ limp_amplitude			=	0.095
 ```
 > Reducing the numbers in these lines of code help reduce the very large camera swings during a sprint.
 >
-> This file will need to be moved to Lost Alpha DC installed folder/gamedata/config/misc
+> This file will need to be moved to folder with installed Lost Alpha DC/gamedata/config/misc
+> 
+> Create a config/misc folder if it does not exist. Most likely it will not exist.
